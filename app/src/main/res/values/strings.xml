@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">generate</string>
+    <array name="Raqam">
+        <item>0</item>
+        <item>1000</item>
+    </array>
+</resources>
